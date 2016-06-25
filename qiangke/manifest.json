@@ -1,0 +1,13 @@
+{
+  "name": "深信抢课插件",
+  "manifest_version": 3,
+  "version": "3.0",
+  "description": "深圳信息职业技术学院抢课插件",
+  "browser_action": {
+    "default_icon": "icon.png"
+  },
+  "content_scripts": [{
+      "matches": ["http://10.16.40.56/*"],
+      "js": ["sziitqk.js"]
+    }]
+}

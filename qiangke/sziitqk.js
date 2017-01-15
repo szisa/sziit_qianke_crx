@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         深信院抢课插件
 // @homepage     http://bbs.sxisa.com #### http://deboy.cn
-// @version      3.0
+// @version      3.1
 // @description  深圳信息职业技术学院-chorme抢课插件
 // @author       hancel.lin & Deboy
 // @match        http://10.16.40.56/*
